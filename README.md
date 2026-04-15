@@ -12,7 +12,7 @@
 
 <div align="center">
 
-##Знакомство с Android Studio
+## Знакомство с Android Studio
 
 </div>
 
