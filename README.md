@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![Иллюстрация к проекту](https://github.com/mamontoff2018-lgtm/laba_1/edit/master/README.md)
+![Итоговый результат]([https://github.com/mamontoff2018-lgtm/laba_1/edit/master/README.md](https://github.com/mamontoff2018-lgtm/laba_1/blob/master/Рисунок1.png))
 *Рисунок 1. *
 
 </div>
